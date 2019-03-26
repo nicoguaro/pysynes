@@ -16,7 +16,7 @@ Synthesthesia
 
 
 
-Synesthesia is a package created to experience synesthetic perception.
+Synthesthesia is a package created to experience synesthetic perception.
 
 
 * Free software: MIT license
